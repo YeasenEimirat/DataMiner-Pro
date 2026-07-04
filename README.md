@@ -96,17 +96,15 @@ This project is a learning and practical project built to improve skills in:
 * Data filtering
 * Excel export
 * Building real-world desktop applications
-
 ## Screenshots
 
- 
+### Main Form
 
-```md
-<img width="1517" height="682" alt="image" src="https://github.com/user-attachments/assets/c16d2523-1a7d-4028-9e1c-b1a6290871ef" />
 
- <img width="1092" height="625" alt="image" src="https://github.com/user-attachments/assets/b3fc32f9-8f9f-4265-b7c5-450378647f8e" />
+<img src="https://github.com/user-attachments/assets/b3fc32f9-8f9f-4265-b7c5-450378647f8e" width="800" alt="Results" />
+### Results / Export
 
-```
+<img src="https://github.com/user-attachments/assets/c16d2523-1a7d-4028-9e1c-b1a6290871ef" width="800" alt="Main Form" />
 
 ## Future Improvements
 
